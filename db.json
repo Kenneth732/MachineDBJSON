@@ -2,16 +2,16 @@
     "machine": [
         {
             "id" : 0,
-            "name" : "Industrial Cutting Machine",
             "image": "https://cdn.leonardo.ai/users/cc91876d-418b-4856-82a3-b277d5cda999/generations/7bd4907e-93a3-480e-9334-fbd4676358e8/Leonardo_Diffusion_The_picture_captures_the_intricate_and_deli_1.jpg",
-            "description": "",
-            "type": "",
-            "price": 0,
-            "quantity": 0,
-            "status": "",
-            "category": "",
-            "sub_category": "",
-            "brand": ""
+            "name": "Intricate and Delicate Machine",
+            "description": "This machine features intricate and delicate components that are carefully designed and manufactured for precision performance.",
+            "type": "Machine",
+            "price": 2499.99,
+            "quantity": 10,
+            "status": "In Stock",
+            "category": "Machinery",
+            "sub_category": "Industrial Machines",
+            "brand": "Leonardo Diffusion"
         },
         {
             "id" : 1,
